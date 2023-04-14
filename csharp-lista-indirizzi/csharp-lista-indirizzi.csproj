@@ -8,4 +8,15 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Update="Nuova_lista.cshtml">
+      <Generator>RazorTemplatePreprocessor</Generator>
+      <LastGenOutput>NuovaLista.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="NuovaLista.cs">
+      <DependentUpon>NuovaLista.txt</DependentUpon>
+    </Compile>
+  </ItemGroup>
 </Project>

@@ -1,0 +1,40 @@
+﻿Lista degli Indirizzi:
+
+Nome: John
+Cognome: Doe
+Via: 120 jefferson st.
+Città; Riverside
+Provincia: NJ
+CAP: 08075
+
+Nome: Jack
+Cognome: McGinnis
+Via: 220 hobo Av.
+Città; Phila
+Provincia: PA
+CAP: 09119
+
+Nome: John Da Man
+Cognome: Repici
+Via: 120 Jefferson St.
+Città; Riverside
+Provincia: NJ
+CAP: 08075
+
+Nome: Stephen
+Cognome: Tyler
+Via: 7452 Terrace "At the Plaza" road
+Città; SomeTown
+Provincia: SD
+CAP: 91234
+
+Dati non sufficienti
+
+Nome: Elemento mancante
+Cognome: Blankman
+Via: Elemento mancante
+Città; New York
+Provincia:  NY
+CAP:  100101
+
+Dati non sufficienti

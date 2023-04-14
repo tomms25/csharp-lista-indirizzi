@@ -27,6 +27,19 @@ namespace csharp_lista_indirizzi
             Provincia = provincia;
             CodicePostale = codicePostale;
         }
+
+
+
+        public void StampIndirizzo()
+        {
+            var nl = Environment.NewLine;
+            Console.WriteLine($"Nome: {Name}" + nl
+                + $"Cognome: {Cognome}" + nl
+                + $"Via: {Via}" + nl
+                + $"Città; {Citta}" + nl
+                + $"Provincia: {Provincia}" + nl
+                + $"CAP: {CodicePostale}");
+        }
     }
 }
 
